@@ -1,0 +1,23 @@
+{
+  "name": "jasmine_should_include",
+  "version": "0.0.0",
+  "description": "Additional matcher for testing whether an object matches a fragment of attributes",
+  "main": "dist/to_include_fragment.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://git@github.com:hderms/jasmine-include-fragment.git"
+  },
+  "keywords": [
+    "jasmine",
+    "TDD",
+    "BDD"
+  ],
+  "author": "Dermot Haughey",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/hderms/jasmine-include-fragment/issues"
+  }
+}
