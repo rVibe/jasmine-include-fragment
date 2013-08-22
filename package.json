@@ -1,5 +1,5 @@
 {
-  "name": "jasmine_should_include",
+  "name": "jasmine-should-include-fragment",
   "version": "0.0.0",
   "description": "Additional matcher for testing whether an object matches a fragment of attributes",
   "main": "dist/to_include_fragment.js",
